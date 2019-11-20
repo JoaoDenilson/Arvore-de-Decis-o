@@ -1,2 +1,2 @@
 #Arvore de Decisão
-Utilizando o algoritmo de classificação Decision Tress da biblioteca scikit-learn.
+Utilizando o algoritmo de classificação Decision Trees da biblioteca scikit-learn.
